@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/user-attachments/assets/457c2224-73e3-47e1-82b5-5472852d2a79 width="600" height="200"/>
+  <img src=https://github.com/user-attachments/assets/457c2224-73e3-47e1-82b5-5472852d2a79 width="800" height="300"/>
 </div>
 
 ## 🎓 Major
