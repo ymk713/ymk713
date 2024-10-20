@@ -3,8 +3,8 @@
 </div>
 
 ## 🎓 Major
-- **2019.03 ~ 2023.02** B.S in Applied Statistics and Japanese, Gachon University 
-- **2023.03 ~ 2025.02** M.S in Statistics, Korea University
+- **2019.03 ~ 2023.02** B.S in Applied Statistics and Japanese
+- **2023.03 ~ 2025.02** M.S in Statistics
 
 ## 🏆 Awards
 - **2019.03 ~ 2023.02** 금융데이터 활용 경진대회 대상 (국토교통부 장관상)
