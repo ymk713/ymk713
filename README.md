@@ -3,7 +3,7 @@
 </div>
 
 ## 🎓 Major
-- <kbd>2019.03 ~ 2023.02</kbd> B.S in Applied Statistics and Japanese, Gachon University 
+- `2019.03 ~ 2023.02` B.S in Applied Statistics and Japanese, Gachon University 
 - **2023.03 ~ 2025.02** M.S in Statistics, Korea University
 
 ## 💼 Career
